@@ -1,0 +1,23 @@
+body {
+  font-family: "EB Garamond", serif;
+  line-height: 1.6;
+}
+
+header,
+main {
+  max-width: 540px;
+  margin: 2em auto;
+  padding: 0 1em;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+blockquote {
+  margin: 2em 0;
+}
+
+footer {
+  text-align: right;
+}
